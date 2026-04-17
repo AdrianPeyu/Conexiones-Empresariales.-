@@ -37,7 +37,7 @@ A nivel empresarial y legal (especialmente bajo el **RGPD**), la gestión centra
 Se han generado 5 intentos fallidos de conexión SSH para auditar el sistema.
 
 **Captura del análisis forense manual:**
-*(Inserta aquí tu captura de pantalla donde se vea el comando: tail -n 20 /var/log/auth.log)*
+*(captura de pantalla)*
 > **Nota:** En la captura se observa la IP atacante y el mensaje `Failed password`.
 
 **Automatización:**
@@ -54,12 +54,12 @@ Se ha aplicado una política de **Defensa en Profundidad** con configuración de
 3.  **Apertura SSH:** `sudo ufw allow 22/tcp`
 
 **Evidencias de Verificación:**
-*(Inserta aquí captura de `sudo ufw status verbose`)*
+*(captura)*
 
 **Prueba Cruzada:**
 * **Resultado Ping:** El host remoto recibe "Time out" (Invisible).
 * **Resultado SSH:** Conexión establecida correctamente.
-*(Inserta aquí captura de pantalla comparando ambos resultados)*
+*(captura de pantalla)*
 
 ---
 
