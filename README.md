@@ -1,7 +1,7 @@
 # Taller Técnico: Operación Escudo 
 **Módulo:** Sistemas Informáticos (0483)  
 **UD6:** Seguridad y Gestión de Recursos en Red  
-**Alumno:** [Tu Nombre y Apellidos]
+**Alumno:** Adrián Cabezas Castro
 
 ---
 
